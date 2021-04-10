@@ -2,13 +2,13 @@
 
 ## Spec
 - Node
-v14.15.4
+v15.10.0
 - Typescript
 v4.1.3
 - React
-v17.0.1
+v17.0.2
 - Storybook 
-v6.1.16
+v6.2.7
 - Eslint
 v7.19.0
 - Webpack
